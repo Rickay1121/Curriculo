@@ -1,0 +1,31 @@
+*{
+	border: 1px solid rgb(184, 13, 13);
+}
+
+header{
+
+}
+
+body{
+	margin: 0 auto;
+	max-width: 1000px;
+	font-family: "Helvetica", "Arial", sans-serif;
+	line-height: 1.5;
+	padding: 10px 20px;
+	border: 1px solid black;
+	color: #555;
+}
+
+main{
+	display:inline-block ;
+}
+
+aside{
+	display: inline-block;
+}
+
+img{
+	float: center;
+	padding: 10px;
+}
+
