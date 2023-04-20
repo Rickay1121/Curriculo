@@ -6,6 +6,11 @@ header{
 	
 }
 
+img{
+	float: center;
+	padding: 10px;
+}
+
 body{
 	margin: 0 auto;
 	max-width: 1000px;
@@ -18,14 +23,16 @@ body{
 
 main{
 	display:inline-block;
+	background-color: #C1DCDD;
+}
+
+h4{
+	Color: red;
 }
 
 aside{
 	display: inline-block;
 }
 
-img{
-	float: center;
-	padding: 10px;
-}
+
 
