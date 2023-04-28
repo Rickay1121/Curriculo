@@ -24,6 +24,7 @@ body{
 main{
 	display:inline-block;
 	background-color: #C1DCDD;
+	width: 700px;
 }
 
 h4{
@@ -32,6 +33,7 @@ h4{
 
 aside{
 	display: inline-block;
+	width: 200px;
 }
 
 
